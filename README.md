@@ -1,9 +1,3 @@
-[![Crate](https://img.shields.io/crates/v/metaboss)](https://crates.io/crates/metaboss)
-[![Downloads](https://img.shields.io/crates/d/metaboss)](https://crates.io/crates/metaboss)
-[![Build Status](https://img.shields.io/github/workflow/status/samuelvanderwaal/metaboss/CI)](https://github.com/samuelvanderwaal/metaboss/actions)
-[![License](https://img.shields.io/crates/l/metaboss)](https://github.com/samuelvanderwaal/metaboss/blob/main/LICENSE)
-
-# Metaboss
 
 ## Overview
 
@@ -86,10 +80,3 @@ cargo build --release
 
 
 
-## Contact
-
-Email: sam@vanderwaal.dev
-
-Twitter: [@samvwaal](https://twitter.com/samvwaal)
-
-Discord: @archaeopteryx#7615
